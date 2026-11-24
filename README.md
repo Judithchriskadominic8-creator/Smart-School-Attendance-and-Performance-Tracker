@@ -23,3 +23,5 @@ A complete system for schools to manage student attendance and performance.
 2. Open in Excel / Google Sheets
 3. Go to Attendance sheet and mark Present / Absent / Late
 4. Dashboard will update automatically
+
+   ![Screenshot](Excel%20screenshot.png)
